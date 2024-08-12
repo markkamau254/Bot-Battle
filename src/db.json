@@ -1,0 +1,216 @@
+{
+    "bots": [
+      {
+
+        "id": 1,
+    
+        "name": "wHz-93",
+    
+        "health": 94,
+    
+        "damage": 20,
+    
+        "armor": 63,
+    
+        "bot_class": "Support",
+    
+        "catchphrase": "1010010101001101100011000111101",
+    
+        "avatar_url": "https://robohash.org/1?size=300x300&set=set1",
+    
+        "created_at": "2018-10-02T19:55:10.800Z",
+    
+        "updated_at": "2018-10-02T19:55:10.800Z"
+    
+      },
+    
+      {
+    
+        "id": 2,
+    
+        "name": "RyM-66",
+    
+        "health": 100,
+    
+        "damage": 30,
+    
+        "armor": 60,
+    
+        "bot_class": "Medic",
+    
+        "catchphrase": "0110011100000100011110100110011000011001",
+    
+        "avatar_url": "https://robohash.org/2?size=300x300&set=set1",
+    
+        "created_at": "2018-10-02T19:55:10.827Z",
+    
+        "updated_at": "2018-10-02T19:55:10.827Z"
+    
+      },
+
+      {
+    
+        "id": 3,
+    
+        "name": "RyM-67",
+    
+        "health": 80,
+    
+        "damage": 50,
+    
+        "armor": 99,
+    
+        "bot_class": "Knight",
+    
+        "catchphrase": "0110011100000100011110100110011000011001",
+    
+        "avatar_url": "https://robohash.org/3?size=300x300&set=set1",
+    
+        "created_at": "2018-10-02T19:55:10.827Z",
+    
+        "updated_at": "2018-10-02T19:55:10.827Z"
+    
+      },
+
+      {
+    
+        "id": 4,
+    
+        "name": "RyM-68",
+    
+        "health": 70,
+    
+        "damage": 28,
+    
+        "armor": 89,
+    
+        "bot_class": "Gard",
+    
+        "catchphrase": "0110011100000100011110100110011000011001",
+    
+        "avatar_url": "https://robohash.org/4?size=300x300&set=set1",
+    
+        "created_at": "2018-10-02T19:55:10.827Z",
+    
+        "updated_at": "2018-10-02T19:55:10.827Z"
+    
+      },
+
+      {
+    
+        "id": 5,
+    
+        "name": "RyM-69",
+    
+        "health": 76,
+    
+        "damage": 46,
+    
+        "armor": 80,
+    
+        "bot_class": "Witch",
+    
+        "catchphrase": "0110011100000100011110100110011000011001",
+    
+        "avatar_url": "https://robohash.org/5?size=300x300&set=set1",
+    
+        "created_at": "2018-10-02T19:55:10.827Z",
+    
+        "updated_at": "2018-10-02T19:55:10.827Z"
+    
+      },
+
+      {
+    
+        "id": 6,
+    
+        "name": "RyM-70",
+    
+        "health": 87,
+    
+        "damage": 36,
+    
+        "armor": 77,
+    
+        "bot_class": "squire",
+    
+        "catchphrase": "0110011100000100011110100110011000011001",
+    
+        "avatar_url": "https://robohash.org/8?size=300x300&set=set1",
+    
+        "created_at": "2018-10-02T19:55:10.827Z",
+    
+        "updated_at": "2018-10-02T19:55:10.827Z"
+    
+      },
+      {
+    
+        "id": 7,
+    
+        "name": "RyM-70",
+    
+        "health": 87,
+    
+        "damage": 36,
+    
+        "armor": 77,
+    
+        "bot_class": "squire",
+    
+        "catchphrase": "0110011100000100011110100110011000011001",
+    
+        "avatar_url": "https://robohash.org/7?size=300x300&set=set1",
+    
+        "created_at": "2018-10-02T19:55:10.827Z",
+    
+        "updated_at": "2018-10-02T19:55:10.827Z"
+    
+      },
+      {
+    
+        "id": 8,
+    
+        "name": "RyM-70",
+    
+        "health": 87,
+    
+        "damage": 36,
+    
+        "armor": 77,
+    
+        "bot_class": "squire",
+    
+        "catchphrase": "0110011100000100011110100110011000011001",
+    
+        "avatar_url": "https://robohash.org/9?size=300x300&set=set1",
+    
+        "created_at": "2018-10-02T19:55:10.827Z",
+    
+        "updated_at": "2018-10-02T19:55:10.827Z"
+    
+      },
+      {
+    
+        "id": 9,
+    
+        "name": "RyM-70",
+    
+        "health": 87,
+    
+        "damage": 36,
+    
+        "armor": 77,
+    
+        "bot_class": "squire",
+    
+        "catchphrase": "0110011100000100011110100110011000011001",
+    
+        "avatar_url": "https://robohash.org/14?size=300x300&set=set1",
+    
+        "created_at": "2018-10-02T19:55:10.827Z",
+    
+        "updated_at": "2018-10-02T19:55:10.827Z"
+    
+      }
+    ]
+  }
