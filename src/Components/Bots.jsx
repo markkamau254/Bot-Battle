@@ -5,7 +5,7 @@ function Bots({ onImageClick }) {
   const [bots, setBots] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:3000/bots')
+    fetch('https://bot-battle-backend-orcin.vercel.app/bots')
       .then((response) => {
         if (!response.ok) {
           throw new Error('Network response was not ok');
