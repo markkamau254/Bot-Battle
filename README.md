@@ -72,7 +72,7 @@ To use this repo, follow these steps:
 
   
 ## *You can check the deployed website by clicking the live link below* 👇 
-You can view the deployed project [here](https://phase-2-challange-2.vercel.app/).
+You can view the deployed project [here](https://bot-battle-five.vercel.app/).
 
 ##*Author*
 Mark Kamau
